@@ -32,5 +32,10 @@ build/
 ### VS Code ###
 .vscode/
 
+### H2 Database ###
+*.db
+
+### Logs ###
+*.log
 
 .DS_Store
